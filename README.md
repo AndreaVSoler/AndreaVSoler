@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Andrea Viñas Soler. I am an economist located in Barcelona, Spain.
+
 - 🏫 Master's graduate in International Trade, Finance, and Development at the Barcelona School of Economics
 - 🔭 I’m currently searching for field research assistant positions in Africa.
 - 🌱 I’m currently learning SurveyCTO, and improving my skills in R.
