@@ -8,4 +8,3 @@ My name is Andrea Viñas Soler. I am an economist located in Barcelona, Spain.
 - 👯 I’m looking to collaborate on development projects.
 - 💬 Ask me about development topics, quantitative and statistically skills in economics and public policy.
 - 📫 How to reach me: andrea.vinas@bse.eu
-- 😄 Pronouns: she/her
